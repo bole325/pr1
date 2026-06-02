@@ -37,5 +37,5 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/你的用户名/course-work-management.git
+git clone https://github.com/bole325/course-work-management.git
 cd course-work-management
