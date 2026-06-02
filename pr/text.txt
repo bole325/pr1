@@ -1,0 +1,23 @@
+course-work-management/
+│
+├── backend/
+│   ├── __init__.py          # 空文件，标识为Python包
+│   ├── app.py               # Flask主程序
+│   ├── database.py          # 数据库初始化
+│   └── auth.py              # 登录验证
+│
+├── frontend/
+│   ├── login.html           # 登录页面
+│   ├── student.html         # 学生主页
+│   ├── teacher.html         # 教师主页
+│   ├── admin.html           # 管理员主页
+│   ├── grade.html           # 批改作业页
+│   ├── my_submissions.html  # 我的成绩页
+│   └── style.css            # 全局样式
+│
+├── instance/
+│   └── .gitkeep             # 保持文件夹存在（数据库忽略）
+│
+├── .gitignore               # Git忽略文件
+├── requirements.txt         # Python依赖
+└── README.md                # 项目说明
